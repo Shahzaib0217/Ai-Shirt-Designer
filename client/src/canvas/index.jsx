@@ -1,6 +1,6 @@
 import React from "react";
 
-const index = () => {
+const CanvasModel = () => {
   return (
     <div>
       <h1>Canvas</h1>
@@ -8,4 +8,4 @@ const index = () => {
   );
 };
 
-export default index;
+export default CanvasModel;
