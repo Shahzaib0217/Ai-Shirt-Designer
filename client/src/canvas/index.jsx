@@ -22,7 +22,7 @@ const CanvasModel = () => {
       {/* We willpoint cameraRig close to shirt to maximize its size */}
       {/* We are passing some children components in CameraRig */}
       <CameraRig>
-        {/* <Backdrop /> */}
+        <Backdrop />
         {/* This will place shirt in the center of the screen */}
         <Center>
           <Shirt />
